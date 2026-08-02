@@ -8,8 +8,7 @@ An advanced, systems-driven Minecraft modification created for the popular YouTu
 * **Production status:** released and fully optimized for heavy video production workflows.
 
 
-[![Watch the Video](https://youtube.com)](https://youtu.be/iSVBkQrnVCg?si=ZGvpEAEwk_-HU5oO)
-
+[![Watch the Video](https://i.ytimg.com/vi/iSVBkQrnVCg/hqdefault.jpg)](https://youtu.be/iSVBkQrnVCg?si=mLIRi9FWsQWPbDbQ)
 ---
 
 ## 🛠 Features Implemented
