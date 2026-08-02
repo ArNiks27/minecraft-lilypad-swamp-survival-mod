@@ -1,0 +1,9 @@
+{
+  "parent": "mod_ne_ebu:custom/kamish_0",
+  "textures": {
+    "all": "mod_ne_ebu:block/raw_kamish",
+    "particle": "mod_ne_ebu:block/raw_kamish",
+    "1": "mod_ne_ebu:block/raw_kamish"
+  },
+  "render_type": "cutout"
+}

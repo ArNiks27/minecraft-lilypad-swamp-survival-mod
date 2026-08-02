@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mod_ne_ebu:block/cattailnetushtuchek"
+    },
+    "facing=east": {
+      "model": "mod_ne_ebu:block/cattailnetushtuchek",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mod_ne_ebu:block/cattailnetushtuchek",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mod_ne_ebu:block/cattailnetushtuchek",
+      "y": 270
+    }
+  }
+}

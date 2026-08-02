@@ -1,0 +1,7 @@
+
+{
+  "parent": "mod_ne_ebu:displaysettings/lilly_pad_5",
+  "textures": {
+    "particle": "mod_ne_ebu:block/lilly_pad_1"
+  }
+}

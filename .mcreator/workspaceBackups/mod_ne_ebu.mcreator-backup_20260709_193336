@@ -1,0 +1,241 @@
+{
+  "mod_elements": [
+    {
+      "name": "Lillypad1",
+      "type": "animatedblock",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lillypad_1",
+      "metadata": {
+        "files": [
+          "src/main/java/net/arniks/modneebu/block/renderer/Lillypad1TileRenderer.java",
+          "src/main/java/net/arniks/modneebu/block/renderer/Lillypad1DisplayItemRenderer.java",
+          "src/main/java/net/arniks/modneebu/block/Lillypad1Block.java",
+          "src/main/resources/assets/mod_ne_ebu/models/item/lillypad_1.json",
+          "src/main/java/net/arniks/modneebu/block/display/Lillypad1DisplayItem.java",
+          "src/main/java/net/arniks/modneebu/block/model/Lillypad1DisplayModel.java",
+          "src/main/resources/assets/mod_ne_ebu/models/custom/lillypad_1_particle.json",
+          "src/main/java/net/arniks/modneebu/block/entity/Lillypad1TileEntity.java",
+          "src/main/resources/assets/mod_ne_ebu/blockstates/lillypad_1.json",
+          "src/main/java/net/arniks/modneebu/block/model/Lillypad1BlockModel.java"
+        ]
+      }
+    },
+    {
+      "name": "LillyPad2",
+      "type": "animatedblock",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lilly_pad_2",
+      "metadata": {
+        "files": [
+          "src/main/java/net/arniks/modneebu/block/renderer/LillyPad2TileRenderer.java",
+          "src/main/java/net/arniks/modneebu/block/renderer/LillyPad2DisplayItemRenderer.java",
+          "src/main/resources/assets/mod_ne_ebu/models/custom/lilly_pad_2_particle.json",
+          "src/main/resources/assets/mod_ne_ebu/blockstates/lilly_pad_2.json",
+          "src/main/java/net/arniks/modneebu/block/model/LillyPad2DisplayModel.java",
+          "src/main/resources/assets/mod_ne_ebu/models/item/lilly_pad_2.json",
+          "src/main/java/net/arniks/modneebu/block/model/LillyPad2BlockModel.java",
+          "src/main/java/net/arniks/modneebu/block/display/LillyPad2DisplayItem.java",
+          "src/main/java/net/arniks/modneebu/block/entity/LillyPad2TileEntity.java",
+          "src/main/java/net/arniks/modneebu/block/LillyPad2Block.java"
+        ]
+      }
+    },
+    {
+      "name": "Lillypad3",
+      "type": "animatedblock",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lillypad_3",
+      "metadata": {
+        "files": [
+          "src/main/java/net/arniks/modneebu/block/display/Lillypad3DisplayItem.java",
+          "src/main/resources/assets/mod_ne_ebu/models/item/lillypad_3.json",
+          "src/main/resources/assets/mod_ne_ebu/models/custom/lillypad_3_particle.json",
+          "src/main/java/net/arniks/modneebu/block/renderer/Lillypad3DisplayItemRenderer.java",
+          "src/main/java/net/arniks/modneebu/block/Lillypad3Block.java",
+          "src/main/resources/assets/mod_ne_ebu/blockstates/lillypad_3.json",
+          "src/main/java/net/arniks/modneebu/block/entity/Lillypad3TileEntity.java",
+          "src/main/java/net/arniks/modneebu/block/renderer/Lillypad3TileRenderer.java",
+          "src/main/java/net/arniks/modneebu/block/model/Lillypad3BlockModel.java",
+          "src/main/java/net/arniks/modneebu/block/model/Lillypad3DisplayModel.java"
+        ]
+      }
+    },
+    {
+      "name": "Lillypad4",
+      "type": "animatedblock",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lillypad_4",
+      "metadata": {
+        "files": [
+          "src/main/java/net/arniks/modneebu/block/model/Lillypad4BlockModel.java",
+          "src/main/java/net/arniks/modneebu/block/model/Lillypad4DisplayModel.java",
+          "src/main/java/net/arniks/modneebu/block/renderer/Lillypad4DisplayItemRenderer.java",
+          "src/main/resources/assets/mod_ne_ebu/blockstates/lillypad_4.json",
+          "src/main/resources/assets/mod_ne_ebu/models/item/lillypad_4.json",
+          "src/main/java/net/arniks/modneebu/block/display/Lillypad4DisplayItem.java",
+          "src/main/java/net/arniks/modneebu/block/renderer/Lillypad4TileRenderer.java",
+          "src/main/resources/assets/mod_ne_ebu/models/custom/lillypad_4_particle.json",
+          "src/main/java/net/arniks/modneebu/block/Lillypad4Block.java",
+          "src/main/java/net/arniks/modneebu/block/entity/Lillypad4TileEntity.java"
+        ]
+      }
+    },
+    {
+      "name": "Lillypad5",
+      "type": "animatedblock",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lillypad_5",
+      "metadata": {
+        "files": [
+          "src/main/java/net/arniks/modneebu/block/Lillypad5Block.java",
+          "src/main/java/net/arniks/modneebu/block/model/Lillypad5BlockModel.java",
+          "src/main/java/net/arniks/modneebu/block/entity/Lillypad5TileEntity.java",
+          "src/main/java/net/arniks/modneebu/block/renderer/Lillypad5DisplayItemRenderer.java",
+          "src/main/resources/assets/mod_ne_ebu/models/custom/lillypad_5_particle.json",
+          "src/main/resources/assets/mod_ne_ebu/models/item/lillypad_5.json",
+          "src/main/java/net/arniks/modneebu/block/renderer/Lillypad5TileRenderer.java",
+          "src/main/java/net/arniks/modneebu/block/model/Lillypad5DisplayModel.java",
+          "src/main/java/net/arniks/modneebu/block/display/Lillypad5DisplayItem.java",
+          "src/main/resources/assets/mod_ne_ebu/blockstates/lillypad_5.json"
+        ]
+      }
+    },
+    {
+      "name": "Flowerlilly",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "flowerlilly",
+      "metadata": {
+        "files": [
+          "src/main/java/net/arniks/modneebu/block/FlowerlillyBlock.java",
+          "src/main/resources/assets/mod_ne_ebu/blockstates/flowerlilly.json",
+          "src/main/resources/assets/mod_ne_ebu/models/item/flowerlilly.json",
+          "src/main/resources/assets/mod_ne_ebu/models/block/flowerlilly.json",
+          "src/main/resources/data/mod_ne_ebu/loot_tables/blocks/flowerlilly.json"
+        ]
+      }
+    },
+    {
+      "name": "Lillypad",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lillypad",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mod_ne_ebu/blockstates/lillypad.json",
+          "src/main/resources/data/mod_ne_ebu/loot_tables/blocks/lillypad.json",
+          "src/main/resources/assets/mod_ne_ebu/models/item/lillypad.json",
+          "src/main/resources/assets/mod_ne_ebu/models/block/lillypad.json",
+          "src/main/java/net/arniks/modneebu/block/LillypadBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Lillypadfake",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lillypadfake",
+      "metadata": {
+        "files": [
+          "src/main/resources/data/mod_ne_ebu/loot_tables/blocks/lillypadfake.json",
+          "src/main/java/net/arniks/modneebu/block/LillypadfakeBlock.java",
+          "src/main/resources/assets/mod_ne_ebu/models/block/lillypadfake.json",
+          "src/main/resources/assets/mod_ne_ebu/models/item/lillypadfake.json",
+          "src/main/resources/assets/mod_ne_ebu/blockstates/lillypadfake.json"
+        ]
+      }
+    },
+    {
+      "name": "Lillypadlaminar",
+      "type": "block",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "lillypadlaminar",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mod_ne_ebu/models/item/lillypadlaminar.json",
+          "src/main/resources/assets/mod_ne_ebu/blockstates/lillypadlaminar.json",
+          "src/main/resources/assets/mod_ne_ebu/models/block/lillypadlaminar.json",
+          "src/main/resources/data/mod_ne_ebu/loot_tables/blocks/lillypadlaminar.json",
+          "src/main/java/net/arniks/modneebu/block/LillypadlaminarBlock.java"
+        ]
+      }
+    },
+    {
+      "name": "Seeds",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "seeds",
+      "metadata": {
+        "files": [
+          "src/main/resources/assets/mod_ne_ebu/models/item/seeds.json",
+          "src/main/java/net/arniks/modneebu/item/SeedsItem.java"
+        ]
+      }
+    },
+    {
+      "name": "Cattailspike",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "cattailspike",
+      "metadata": {
+        "files": [
+          "src/main/java/net/arniks/modneebu/item/CattailspikeItem.java",
+          "src/main/resources/assets/mod_ne_ebu/models/item/cattailspike.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "block.mod_ne_ebu.lillypad_3": "Lillypad 3",
+      "item.mod_ne_ebu.seeds": "Seeds",
+      "block.mod_ne_ebu.lillypad_1": "Lillypad 1",
+      "block.mod_ne_ebu.lillypad": "Lillypad",
+      "block.mod_ne_ebu.flowerlilly": "Flowerlilly",
+      "block.mod_ne_ebu.lillypad_4": "Lillypad 4",
+      "item.mod_ne_ebu.cattailspike": "Cattailspike",
+      "block.mod_ne_ebu.lillypad_5": "Lillypad 5",
+      "block.mod_ne_ebu.lilly_pad_2": "Lilly Pad 2",
+      "block.mod_ne_ebu.lillypadfake": "Lillypadfake",
+      "block.mod_ne_ebu.lillypadlaminar": "Lillypadlaminar"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "mod_ne_ebu",
+    "modName": "mod_ne_ebu",
+    "version": "1.0.0",
+    "author": "arniks",
+    "websiteURL": "https://cuboserver.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [
+      "geckolib"
+    ],
+    "currentGenerator": "forge-1.20.1",
+    "credits": "semen",
+    "modElementsPackage": "net.arniks.modneebu"
+  },
+  "mcreatorVersion": 202400452410
+}

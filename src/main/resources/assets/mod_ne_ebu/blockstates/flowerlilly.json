@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "stage=0": { "model": "mod_ne_ebu:block/flowerlilly" },
+    "stage=1": { "model": "mod_ne_ebu:block/flowerlilly2" },
+    "stage=2": { "model": "mod_ne_ebu:block/flowerlilly3" },
+    "stage=3": { "model": "mod_ne_ebu:block/flowerlilly4" }
+  }
+}

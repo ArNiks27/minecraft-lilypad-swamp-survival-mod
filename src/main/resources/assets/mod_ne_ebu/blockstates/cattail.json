@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "stage=0": { "model": "mod_ne_ebu:block/cattail" },
+    "stage=1": { "model": "mod_ne_ebu:block/cattailnetushtuchek" },
+    "stage=2": { "model": "mod_ne_ebu:block/cattailshtuki" }
+  }
+}

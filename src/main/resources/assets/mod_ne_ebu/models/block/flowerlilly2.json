@@ -1,0 +1,9 @@
+{
+  "parent": "mod_ne_ebu:custom/plant_stage_2",
+  "textures": {
+    "all": "mod_ne_ebu:block/plant_stage_2",
+    "particle": "mod_ne_ebu:block/plant_stage_2",
+    "0": "mod_ne_ebu:block/plant_stage_2"
+  },
+  "render_type": "cutout"
+}

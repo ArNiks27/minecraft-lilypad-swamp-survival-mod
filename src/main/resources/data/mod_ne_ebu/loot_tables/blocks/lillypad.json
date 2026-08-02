@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "mod_ne_ebu:blocks/lillypad",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "mod_ne_ebu:lillypad"
+        }
+      ]
+    }
+  ]
+}

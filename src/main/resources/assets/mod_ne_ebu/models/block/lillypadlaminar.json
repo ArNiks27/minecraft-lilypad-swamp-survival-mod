@@ -1,0 +1,9 @@
+{
+  "parent": "mod_ne_ebu:custom/lilly_pad_laminary",
+  "textures": {
+    "all": "mod_ne_ebu:block/lilly_pad_laminary",
+    "particle": "mod_ne_ebu:block/lilly_pad_laminary",
+    "1": "mod_ne_ebu:block/lilly_pad_laminary"
+  },
+  "render_type": "cutout"
+}

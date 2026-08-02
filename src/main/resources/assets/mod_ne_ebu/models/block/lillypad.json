@@ -1,0 +1,9 @@
+{
+	"parent": "mod_ne_ebu:custom/lilly_pad",
+	"textures": {
+		"all": "mod_ne_ebu:block/lilly_pad_main",
+		"particle": "mod_ne_ebu:block/lilly_pad_main",
+		"1": "mod_ne_ebu:block/lilly_pad_main"
+	},
+	"render_type": "cutout"
+}

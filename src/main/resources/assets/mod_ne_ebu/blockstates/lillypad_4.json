@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "mod_ne_ebu:custom/lillypad_4_particle"
+    },
+    "facing=east": {
+      "model": "mod_ne_ebu:custom/lillypad_4_particle",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "mod_ne_ebu:custom/lillypad_4_particle",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "mod_ne_ebu:custom/lillypad_4_particle",
+      "y": 270
+    }
+  }
+}
