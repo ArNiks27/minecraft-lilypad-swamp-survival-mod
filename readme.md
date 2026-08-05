@@ -18,7 +18,7 @@ Designed and programmed the core "Lilypad Economy" that dictates player progress
 * **The Squid game platform logic:** implemented an RNG system for deployed custom seeds. The code generates either a *Stable* or *Weak* lilypad variant. While visually identical, stepping on a Weak platform triggers an immediate block collapse, forcing the player into the environmental mud obstacle.
 * **Automated seed generation:** coded a custom tile entity within the core Lilypad block that spawns interactive flowers on a strict 3-minute global tick timer.
 * **Platform stabilization filter:** programmed a unique interaction with Kelp items. Applying Kelp permanently stabilizes any platform, lifting the single-block weight limit and enabling modular base building.
-* **Custom plant cattail:** cattail inflorescence and sticks 
+* **Custom plant cattail:** cattail inflorescence and sticks with crafts. Balanced for survival game 
 
 ---
 
@@ -29,3 +29,4 @@ Designed and programmed the core "Lilypad Economy" that dictates player progress
     * Successfully separated complex gameplay logic from heavy map-dependent environmental elements (fog/mud assets).
     * Optimized real-time block-state updates during rapid fluid extraction and platform stabilization.
     * Resolved complex tick conflicts during rapid multi-entity interactions within automated mob traps.
+    * ДА ЧТОБЫ РАБОТАЛО ВСЕ НОРМАЛЬНО, ВЫ НЕ ПРЕДСТАВЛЯЕТЕ КАК Я УСТАЛ ПРАВКИ БЕСКОНЕЧНЫЕ ДЕЛАТЬ + ЕЩЕ КАКИЕ-ТО НОВОВЕДЕНИЯ 
