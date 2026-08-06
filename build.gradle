@@ -18,9 +18,9 @@ minecraft {
 
     runs {
         client {
-            def mcreatorJvmOptions = System.getenv('MCREATOR_JVM_OPTIONS')
-            if (mcreatorJvmOptions) {
-                jvmArgs += mcreatorJvmOptions.split("\\s+").findAll { it.trim() }.toList()
+            def JvmOptions = System.getenv('JVM_OPTIONS')
+            if (JvmOptions) {
+                jvmArgs += JvmOptions.split("\\s+").findAll { it.trim() }.toList()
             }
         }
 
@@ -50,5 +50,4 @@ tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8' // Use the UTF-8 charset for Java compilation
 }
 
-apply from: 'mcreator.gradle'
 
