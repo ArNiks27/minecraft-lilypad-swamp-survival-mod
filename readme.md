@@ -1,6 +1,7 @@
 # Minecraft Lilypad Core Mechanics Mod (Dynamic Progression & Entity Loops)
+Developed as a paid commercial project under an official contract with SP Burenochek.
 
-An advanced, systems-driven Minecraft modification created for the popular YouTube channel **Burenochek** (800k+ subscribers). This project focuses on heavy gameplay logic, custom tile entities, and unique mob interaction loops designed to drive progression on a highly restrictive survival map.
+An advanced, systems-driven Minecraft modification created for the popular YouTube channel **Burenochek** (800k+ subscribers). This project focuses on heavy gameplay logic, custom tile entities, and unique mob interaction loops designed to drive progression on a highly restrictive survival map. 
 
 ## Project Showcase & Proof of Work
 * **Watch full gameplay video:** [200 Days Surviving on a Lilypad](https://youtu.be)
