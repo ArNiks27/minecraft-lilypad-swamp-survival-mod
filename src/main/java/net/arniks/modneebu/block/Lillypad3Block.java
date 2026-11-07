@@ -53,15 +53,15 @@ public class Lillypad3Block extends BaseEntityBlock implements EntityBlock, Bone
 		LillyPomogator.handleUpdateShape(level, pos, state, direction);
 		return super.updateShape(state, direction, neighborState, level, pos, neighborPos);
 	}
-	// Настоящий мультиблок: как только игрок ставит master, расставляем невидимые
-	// child-блоки по всей площадке 5x5, чтобы по ней реально можно было ходить.
+
+	// ai
 	@Override
 	public void setPlacedBy(Level level, BlockPos pos, BlockState state, @Nullable LivingEntity placer, ItemStack stack) {
 		super.setPlacedBy(level, pos, state, placer, stack);
 		LillyPomogator.placeLilypadChildren(level, pos, MULTIBLOCK_RADIUS);
 	}
 
-	// При настоящем разрушении master-блока (не просто смене state) сносим всю площадку.
+	// ai
 	@Override
 	public void onRemove(BlockState state, Level level, BlockPos pos, BlockState newState, boolean isMoving) {
 		if (!state.is(newState.getBlock()) && !isMoving) {
